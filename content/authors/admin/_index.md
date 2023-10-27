@@ -117,7 +117,7 @@ social:
 highlight_name: true
 ---
 
-Xiran Song is a third-year graduate student in the School of Computer Science and Technology, [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (HUST), advised by Prof. [Hong Huang](http://faculty.hust.edu.cn/honghuang/en/index.htm). He is also collaborating with Senior Researcher [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/) from Microsoft Research Asia. 
- Previously, he obtained his B.S. degree from HUST in 2021. His research interests include graph representation learning, information retrieval and natural language processing. 
+Xiran Song is a third-year graduate student in the School of Computer Science and Technology, [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (HUST), advised by Professor [Hong Huang](http://faculty.hust.edu.cn/honghuang/en/index.htm) and Senior Researcher [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/). 
+Previously, he obtained his B.S. degree from HUST in 2021. His research interests include graph representation learning, information retrieval and natural language processing. 
 
 {style="text-align: justify;"}.
