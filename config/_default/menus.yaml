@@ -8,11 +8,14 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: '#publications'
+    url: '#publication'
     weight: 20
+  - name: Projects
+    url: '#projects'
+    weight: 30
   - name: CV
     url: '/files/cv-xiransong.pdf'
-    weight: 30
+    weight: 40
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
