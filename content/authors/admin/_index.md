@@ -29,8 +29,8 @@ bio: My research interests include graph representation learning, information re
 
 # Interests to show in About widget
 interests:
+  - Machine Learning
   - Graph Representation Learning
-  - Information Retrieval
   - Natural Language Processing
 
 # Education to show in About widget

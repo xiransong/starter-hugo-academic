@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://doi.ieeecomputersociety.org/10.1109/TKDE.2023.3287260'
+url_pdf: '/files/23-TKDE-zhouwei.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

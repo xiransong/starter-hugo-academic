@@ -48,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/10.1145/3534678.3539192'
+url_pdf: '/files/22-KDD-ssnet.pdf'
 url_code: 'https://github.com/CGCL-codes/ssnet'
 url_dataset: ''
 url_poster: ''

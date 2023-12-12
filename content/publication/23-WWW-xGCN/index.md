@@ -52,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/10.1145/3543507.3583340'
+url_pdf: '/files/23-WWW-xGCN.pdf'
 url_code: 'https://github.com/CGCL-codes/xGCN'
 url_dataset: ''
 url_poster: ''
