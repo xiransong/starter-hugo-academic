@@ -18,7 +18,7 @@ authors:
 #   - ''
 #   - 'Equal contribution'
 
-date: ''
+date: '2023'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -41,7 +41,7 @@ publication_short: In *NeurIPS'23*
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

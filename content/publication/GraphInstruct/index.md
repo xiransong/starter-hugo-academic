@@ -28,7 +28,7 @@ publishDate: ''
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['']
 
 # Publication name and optional abbreviated publication name.
 publication: 'arXiv'
@@ -110,5 +110,4 @@ experiments have demonstrated the superiority
 of GraphLM and GraphLM+ over other LLMs.
 We look forward to more researchers exploring
 the potential of LLMs in the graph data mining domain through GraphInstruct. Our code
-for generating GraphInstruct is released publicly at: https://github.com/CGCL-codes/
-GraphInstruct.
+for generating GraphInstruct is released publicly at: https://github.com/CGCL-codes/GraphInstruct.
