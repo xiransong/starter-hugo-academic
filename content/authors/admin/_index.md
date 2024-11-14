@@ -17,27 +17,30 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student of Computer Science
+role: PhD Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Huazhong University of Science and Technology
-    url: http://english.hust.edu.cn/
+  - name: McKelvey School of Engineering
+    url: https://engineering.washu.edu/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include graph representation learning, information retrieval and natural language processing. 
+bio: My current research interests include large language models and reinforcement learning. 
 
 # Interests to show in About widget
 interests:
-  - Data Mining
-  - Graph Representation Learning
+  - Large Language Models
+  - Reinforcement Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Computer Science
+    - course: PhD in Computer Science
+      institution: Washington University in St. Louis
+      year: 2024 - present
+  - course: MEng in Computer Science
       institution: Huazhong University of Science and Technology
-      year: 2021 - 2024 (anticipated)
+      year: 2021 - 2024
     - course: BEng in Computer Science
       institution: Huazhong University of Science and Technology
       year: 2017 - 2021
@@ -89,7 +92,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:xiransong@hust.edu.cn
+    link: mailto:s.xiran@wustl.edu
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -116,7 +119,11 @@ social:
 highlight_name: true
 ---
 
-Xiran Song is a third-year graduate student in the School of Computer Science and Technology, [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (HUST), advised by Professor [Hong Huang](http://faculty.hust.edu.cn/honghuang/en/index.htm) and Senior Researcher [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/). 
-Previously, he obtained his B.S. degree from HUST in 2021. His research interests include data mining and graph representation learning. 
+
+Xiran Song is a first-year PhD student in computer science at [McKelvey School of Engineering](https://engineering.washu.edu/index.html), Washington University in St. Louis. 
+Previously, he obtained his MEng degree and BEng degree from [Huazhong University of Science and Technology](http://english.hust.edu.cn/). 
+
+<!-- Xiran Song is a third-year graduate student in the School of Computer Science and Technology, [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (HUST), advised by Professor [Hong Huang](http://faculty.hust.edu.cn/honghuang/en/index.htm) and Senior Researcher [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/). 
+Previously, he obtained his B.S. degree from HUST in 2021. His research interests include data mining and graph representation learning.  -->
 
 {style="text-align: justify;"}.
