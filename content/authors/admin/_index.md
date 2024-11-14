@@ -38,7 +38,7 @@ education:
     - course: PhD in Computer Science
       institution: Washington University in St. Louis
       year: 2024 - present
-  - course: MEng in Computer Science
+    - course: MEng in Computer Science
       institution: Huazhong University of Science and Technology
       year: 2021 - 2024
     - course: BEng in Computer Science
