@@ -30,7 +30,6 @@ bio: My current research interests include large language models and reinforceme
 # Interests to show in About widget
 interests:
   - Large Language Models
-  - Reinforcement Learning
 
 # Education to show in About widget
 education:
@@ -120,8 +119,10 @@ highlight_name: true
 ---
 
 
-Xiran Song is a first-year PhD student in computer science at [McKelvey School of Engineering](https://engineering.washu.edu/index.html), Washington University in St. Louis. 
-Previously, he obtained his MEng degree and BEng degree from [Huazhong University of Science and Technology](http://english.hust.edu.cn/). 
+Xiran Song is a first-year PhD student in Computer Science at [McKelvey School of Engineering](https://engineering.washu.edu/index.html), Washington University in St. Louis. 
+Previously, he earned both his MEng and BEng degrees from [Huazhong University of Science and Technology](http://english.hust.edu.cn/). 
+During his master's program, he was advised by Professor [Hong Huang](http://faculty.hust.edu.cn/honghuang/en/index.htm), 
+and worked closely with Senior Researcher [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/). 
 
 <!-- Xiran Song is a third-year graduate student in the School of Computer Science and Technology, [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (HUST), advised by Professor [Hong Huang](http://faculty.hust.edu.cn/honghuang/en/index.htm) and Senior Researcher [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/). 
 Previously, he obtained his B.S. degree from HUST in 2021. His research interests include data mining and graph representation learning.  -->
