@@ -120,6 +120,7 @@ highlight_name: true
 
 
 Xiran Song is a first-year PhD student in Computer Science at [McKelvey School of Engineering](https://engineering.washu.edu/index.html), Washington University in St. Louis. 
+He is currently doing rotation with Professor [Chenguang Wang](https://engineering.washu.edu/faculty/Chenguang-Wang.html). 
 Previously, he earned both his MEng and BEng degrees from [Huazhong University of Science and Technology](http://english.hust.edu.cn/). 
 During his master's program, he was advised by Professor [Hong Huang](http://faculty.hust.edu.cn/honghuang/en/index.htm), 
 and worked closely with Senior Researcher [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/). 
