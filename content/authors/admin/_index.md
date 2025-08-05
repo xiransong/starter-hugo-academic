@@ -17,32 +17,37 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Computer Science
+role: PhD Candidate in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: McKelvey School of Engineering
-    url: https://engineering.washu.edu/index.html
+  - name: Mila - Quebec AI Institude
+    url: https://mila.quebec/en
+  - name: Université de Montréal
+    url: https://www.umontreal.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests include large language models and reinforcement learning. 
+bio: My current research focuses on real-time humanoid motion generation, video LLMs, and the memory systems of LLMs. 
 
-# Interests to show in About widget
-interests:
-  - Large Language Models
+# # Interests to show in About widget
+# interests:
+#   - Large Language Models
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Computer Science
-      institution: Washington University in St. Louis
-      year: 2024 - present
+      institution: Université de Montréal
+      year: 2025.8 - Present
+    - course: PhD in Computer Science
+      institution: Washington University in Staint Louis
+      year: 2024.8 - 2025.6 (Transferred)
     - course: MEng in Computer Science
       institution: Huazhong University of Science and Technology
-      year: 2021 - 2024
+      year: 2021.9 - 2024.6
     - course: BEng in Computer Science
       institution: Huazhong University of Science and Technology
-      year: 2017 - 2021
+      year: 2017.9 - 2021.6
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -91,7 +96,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:s.xiran@wustl.edu
+    link: mailto:xiran.song@umontreal.ca
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -119,9 +124,10 @@ highlight_name: true
 ---
 
 
-Xiran Song is a first-year PhD student in Computer Science at [McKelvey School of Engineering](https://engineering.washu.edu/index.html), Washington University in St. Louis. 
-He is currently doing rotation with Professor [Chenguang Wang](https://engineering.washu.edu/faculty/Chenguang-Wang.html). 
-Previously, he earned both his MEng and BEng degrees from [Huazhong University of Science and Technology](http://english.hust.edu.cn/). 
+Xiran Song is a first-year PhD Candidate in Computer Science at [Mila](https://mila.quebec/en), Quebec AI Institude, 
+under the supervision of Professor [Bang Liu](https://mila.quebec/en/directory/bang-liu). 
+Currently, his research focuses on real-time humanoid motion generation, video LLMs, and the memory systems of LLMs. 
+He earned both his MEng and BEng degrees from [Huazhong University of Science and Technology](http://english.hust.edu.cn/). 
 During his master's program, he was advised by Professor [Hong Huang](http://faculty.hust.edu.cn/honghuang/en/index.htm), 
 and worked closely with Senior Researcher [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/). 
 
