@@ -27,7 +27,7 @@ organizations:
     url: https://www.umontreal.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research focuses on real-time humanoid motion generation, video LLMs, and the memory systems of LLMs. 
+bio: My current research focuses on embodied intelligence and human motion generation. 
 
 # # Interests to show in About widget
 # interests:
@@ -41,7 +41,7 @@ education:
       year: 2025.8 - Present
     - course: PhD in Computer Science
       institution: Washington University in Staint Louis
-      year: 2024.8 - 2025.6 (Transferred)
+      year: 2024.8 - 2025.6 (withdrew)
     - course: MEng in Computer Science
       institution: Huazhong University of Science and Technology
       year: 2021.9 - 2024.6
@@ -124,14 +124,11 @@ highlight_name: true
 ---
 
 
-Xiran Song is a first-year PhD Candidate in Computer Science at [Mila](https://mila.quebec/en), Quebec AI Institude, 
+Xiran Song is a second-year PhD Candidate in Computer Science at Université de Montréal and Mila, Quebec AI Institude, 
 under the supervision of Professor [Bang Liu](https://mila.quebec/en/directory/bang-liu). 
-Currently, his research focuses on real-time humanoid motion generation, video LLMs, and the memory systems of LLMs. 
+Currently, his research focuses on embodied intelligence and human motion generation. 
 He earned both his MEng and BEng degrees from [Huazhong University of Science and Technology](http://english.hust.edu.cn/). 
 During his master's program, he was advised by Professor [Hong Huang](http://faculty.hust.edu.cn/honghuang/en/index.htm), 
-and worked closely with Senior Researcher [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/). 
-
-<!-- Xiran Song is a third-year graduate student in the School of Computer Science and Technology, [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (HUST), advised by Professor [Hong Huang](http://faculty.hust.edu.cn/honghuang/en/index.htm) and Senior Researcher [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/). 
-Previously, he obtained his B.S. degree from HUST in 2021. His research interests include data mining and graph representation learning.  -->
+and worked closely with Principal Researcher [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/). 
 
 {style="text-align: justify;"}.
